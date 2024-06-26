@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Retrieval-augmented generation | Multimodal AI**
 
-- 👨‍💻 All of my projects are available at (--- Notion link ---)
+- 👨‍💻 All of my projects are available at [https://rishibagul.com](https://rishibagul7.notion.site/My-Portfolio-7dcf939437f14a14b34d4cf558db4594?pvs=25)
 
 - 💬 Ask me about **Computer Vision | AI | Neural Networks**
 
-- 📫 How to reach me **rushibagul4444@gmail.com**
+- 📫 How to reach me rushibagul4444@gmail.com
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rishibagul7/](https://www.linkedin.com/in/rishibagul7/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rishibagul7](https://www.linkedin.com/in/rishibagul7/)
 
 - ⚡ Fun fact **I am Good Actor 😛**
 
