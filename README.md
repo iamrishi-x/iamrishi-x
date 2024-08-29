@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrishi-x&label=Profile%20views&color=0e75b6&style=flat" alt="iamrishi-x" /> </p>
 
-- 🔭 I’m currently working on **Self Driving Car**
+- 🔭 I’m currently working on **Cobol to Java Code migration using GenAI LLM**
 
 - 🌱 I’m currently learning **Retrieval-augmented generation | Multimodal AI**
 
